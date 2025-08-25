@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5C7b6tDf)
 # Spaceship Zitanic
 
 ![The Spaceship Zitanic](images/spaceship.png)
@@ -12,20 +11,6 @@ At Mission Control, we only know the status of some of the passengers. This info
 As for the remaining passengers, we don't know whether they were transported to an alternate dimension or not. To assist in our rescue efforts, we would like to use machine learning to predict which of these passengers were transported. Data for these passengers is provided in ```data/test.csv```.
 
 **Your task:** make these predictions with high accuracy!
-
-## Evaluation
-
-There are 20 points available:
-- **Show up to class on Monday and work diligently:** 5 points
-- **Show up to class on Wednesday and work diligently:** 5 points
-- **Show up to class on Friday for the fun denouement:** 4 points
-- There are 6 more points available, based on the accuracy of your classifier:
-  - **+2**: 70-74% test accuracy
-  - **+3**: 75-79% test accuracy
-  - **+4**: 80-84% test accuracy
-  - **+5**: 85-89% test accuracy
-  - **+6**: 90-100% test accuracy
-
 
 ## Features
 
